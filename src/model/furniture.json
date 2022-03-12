@@ -1,0 +1,17 @@
+[
+    {
+        "id": 2,
+        "name": "chair",
+        "desc": "made from willow tree"
+    },
+    {
+        "id": 3,
+        "name": "table",
+        "desc": "made from maple tree"
+    },
+    {
+        "id": 4,
+        "name": "banch",
+        "desc": "made from maple tree"
+    }
+]
